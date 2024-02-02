@@ -31,6 +31,7 @@ import {
   student,
   charlPortfolio,
   hypermax,
+  onlineResume,
 } from '../assets';
 
 export const navLinks = [
@@ -179,6 +180,14 @@ const projects = [
     image: hypermax,
     repo: '',
     demo: 'http://hypermaxstore.webflow.io/',
+  },
+  {
+    id: 'project-3',
+    name: 'My Online Resume',
+    description: 'My Webflow masterpiece. A sleek online store where HTML, CSS, and JavaScript unite for a seamless shopping experience. Explore style and functionality in every line of code.',
+    image: onlineResume,
+    repo: 'https://github.com/victorcharl/MyResume',
+    demo: 'https://charl-resume.vercel.app/',
   },
 ];
 

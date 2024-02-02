@@ -7,6 +7,7 @@ import worldmap from './backgrounds/world-map.png';
 
 import charlPortfolio from './backgrounds/project_shots/portfolio.png';
 import hypermax from './backgrounds/project_shots/hypermax.png';
+import onlineResume from './projects/onlineResume.png';
 
 import backend from './icons/backend.png';
 import ux from './icons/ux.png';
@@ -103,5 +104,6 @@ export {
   i_json,
   coverhunt,
   charlPortfolio,
-  hypermax
+  hypermax,
+  onlineResume
 };
