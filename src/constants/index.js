@@ -184,7 +184,7 @@ const projects = [
   {
     id: 'project-3',
     name: 'My Online Resume',
-    description: 'My Webflow masterpiece. A sleek online store where HTML, CSS, and JavaScript unite for a seamless shopping experience. Explore style and functionality in every line of code.',
+    description: 'Empowered by Next.js 13 for efficient server-side rendering, our platform features a responsive and customizable UI crafted with Tailwind CSS. TypeScript ensures top-notch code quality, while our Dark Mode option enhances readability. Plus, SEO optimizations ensure greater visibility. Seamlessly toggle between light and dark themes for personalized browsing.',
     image: onlineResume,
     repo: 'https://github.com/victorcharl/MyResume',
     demo: 'https://charl-resume.vercel.app/',
