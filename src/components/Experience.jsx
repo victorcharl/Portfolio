@@ -121,7 +121,7 @@ const Experience = () => {
               ease-in-out"
               onClick={() =>
                 window.open(
-                  'resume link', //paste the link to your resume here
+                  'https://charl-resume.vercel.app/', 
                   '_blank'
                 )
               }
