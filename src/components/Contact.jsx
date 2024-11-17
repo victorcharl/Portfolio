@@ -40,7 +40,7 @@ const Contact = () => {
           subject: form.subject,
           message: form.message,
         },
-        'Bzjmw67L97Ikp9hAF' //paste your Public Key here. You'll get it in your profile section.
+        'RnpMP0jmQnPLlKdi7' //paste your Public Key here. You'll get it in your profile section.
       )
       .then(
         () => {
